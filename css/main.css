@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Lato-Hairline";
+  src: url(../vendor/fonts/Lato-Bold.ttf); }
+.headWrapper, .ftr {
+  background: #2c3e50;
+  font-family: "Lato-Hairline"; }
+
+.logoTitle, .pasus {
+  background: #18bc9c;
+  font-family: "Lato-Hairline"; }
+
+p, .p4, .p0 {
+  color: aliceblue; }
+
+.p4 {
+  font-size: 1.1rem; }
+
+.p0 {
+  font-size: 2rem; }
+
+hr {
+  background: aliceblue;
+  padding: 1px;
+  display: inline-bock;
+  width: 30%;
+  margin: 0 auto; }
+
+.colorit {
+  background: #18bc9c;
+  color: aliceblue; }
+
+.ftr {
+  color: aliceblue; }
+
+/*# sourceMappingURL=main.css.map */
